@@ -1,7 +1,9 @@
 ## Overview
-
 A small web-based application works as a digital gift card to send for your friends in the lunar new year events. It built on [HTML5](https://en.wikipedia.org/wiki/HTML5) technology and works fine in the Chrome browser.
 You can change the "best wishes" list to make your own and change the image or anything you want, to suit every lunar new year's events.
+
+## Demo
+https://tenmei.github.io/
 
 ## First glimpse
 ![Happy New Year](https://github.com/TenMei/happy-new-year/blob/master/screenshots/happy-new-year.gif)

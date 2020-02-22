@@ -21,7 +21,7 @@ This project is currently available under the [MIT](https://github.com/TenMei/ha
 ## Installation
 You can get the sources:
 ```
-git clone https://github.com/TenMei/happy-new-year.git
+git clone https://github.com/congcoi123/happy-new-year.git
 ```
 
 ## Start

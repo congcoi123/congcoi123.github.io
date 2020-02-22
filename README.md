@@ -6,7 +6,7 @@ You can change the "best wishes" list to make your own and change the image or a
 https://tenmei.github.io/
 
 ## First glimpse
-![Happy New Year](https://github.com/congcoi123/happy-new-year/blob/master/screenshots/happy-new-year.gif)
+![Happy New Year](https://github.com/congcoi123/tenmei.github.io/blob/master/screenshots/happy-new-year.gif)
 
 ## Dependencies
 - createjs-2013.02.12.min.js
@@ -16,12 +16,12 @@ https://tenmei.github.io/
 - stats.min.js
 
 ## License
-This project is currently available under the [MIT](https://github.com/congcoi123/happy-new-year/blob/master/LICENSE) License.
+This project is currently available under the [MIT](https://github.com/congcoi123/tenmei.github.io/blob/master/LICENSE) License.
 
 ## Installation
 You can get the sources:
 ```
-git clone https://github.com/congcoi123/happy-new-year.git
+git clone https://github.com/congcoi123/tenmei.github.io.git
 ```
 
 ## Start

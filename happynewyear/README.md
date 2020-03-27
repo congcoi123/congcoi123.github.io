@@ -3,7 +3,7 @@ A small web-based application works as a digital gift card to send for your frie
 You can change the "best wishes" list to make your own and change the image or anything you want, to suit every lunar new year's events.
 
 ## Demo
-https://congcoi123.github.io/happynewyear
+https://congcoi123.dev/happynewyear
 
 ## First glimpse
 ![Happy New Year](https://github.com/congcoi123/congcoi123.github.io/blob/master/screenshots/happy-new-year.gif)

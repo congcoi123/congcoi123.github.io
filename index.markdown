@@ -3,19 +3,19 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 feature_row:
   - image_path: /assets/images/world-switch/world-switch-0.png
-    title: "World Switch | ワールドスイッチ"
+    title: "World Switch"
     excerpt: "EC-Cube 2 \\| PHP"
     url: "/world-switch"
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: /assets/images/tenio/tenio-0.png
     title: "TenIO Project"
-    excerpt: "Netty, Jetty, Spring, Cocos2dx, LibGdx, Unity, PhaserJS \\| Java, C++, Javascript, C#"
+    excerpt: "Java, C++, JS, C#"
     url: "/tenio"
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: /assets/images/gold-miner-online/gold-miner-online-0.png
-    title: "Gold Miner Online"
+    title: "Gold Miner"
     excerpt: "TenIO, Cocos2dx \\| Java, C++"
     url: "/gold-miner-online"
     btn_label: "Read More"
@@ -27,13 +27,13 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: /assets/images/casual-mobile-games/casual-mobile-games-0.jpg
-    title: "Casual Mobile Games"
+    title: "Casual Games"
     excerpt: "Cocos2dx, LibGdx \\| C++, Java"
     url: "/casual-mobile-games"
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: /assets/images/retro-brick-game-online/retro-brick-game-online-0.png
-    title: "Retro Brick Game Online"
+    title: "Retro Brick"
     excerpt: "TenIO, Cocos2dx \\| Java, C++"
     url: "/retro-brick-game-online"
     btn_label: "Read More"

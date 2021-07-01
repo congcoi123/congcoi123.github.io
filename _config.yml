@@ -1,0 +1,127 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+#
+# If you need help with YAML syntax, here are some quick references for you: 
+# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
+# https://learnxinyminutes.com/docs/yaml/
+#
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+
+github: [metadata]
+title: Portfolio
+email: congcoi123@gmail.com
+name: "Cong Nguyen-Duy"
+time: 2021-07-01
+description: >- # this means to ignore newlines until "baseurl:"
+  I'm a passionate back-end developer and this is my portfolio website.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://congcoi123.dev" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: congcoi123
+github_username: congcoi123
+repository: "congcoi123/congcoi123.github.io"
+site.author: Cong Nguyen-Duy
+breadcrumbs: true
+author:
+  name     : "Cong Nguyen-Duy"
+  avatar   : "/assets/images/cong-nguyen-duy.jpeg"
+  bio      : "Back End Developer \\| Full Stack Game Developer"
+  location : "Vietnam"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:congcoi123@gmail.com"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/congcoi123"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/congcoi123"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/congcoi123"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://congcoi123.dev"
+    - label: "Hire Me!"
+      icon: "fas fa-fw fa-file-signature"
+      url: "https://www.upwork.com/freelancers/~0165c273db7b9c881f"
+minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
+footer:
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:congcoi123@gmail.com"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/congcoi123"    
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/congcoi123"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/congcoi123"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://congcoi123.dev"
+    - label: "Hire Me!"
+      icon: "fas fa-fw fa-file-signature"
+      url: "https://www.upwork.com/freelancers/~0165c273db7b9c881f"
+
+include: ["_pages"]
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      classes: wide
+      author_profile: true
+# Build settings
+remote_theme: "mmistakes/minimal-mistakes@4.22.0"
+plugins:
+  - jekyll-feed  
+  - jekyll-include-cache
+  - jekyll-remote-theme
+
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/

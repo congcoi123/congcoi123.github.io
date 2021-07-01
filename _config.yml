@@ -34,7 +34,7 @@ site.author: Cong Nguyen-Duy
 breadcrumbs: true
 author:
   name     : "Cong Nguyen-Duy"
-  avatar   : "/assets/images/cong-nguyen-duy.jpeg"
+  avatar   : "/assets/images/profile/cong-nguyen-duy.jpeg"
   bio      : "Back End Developer \\| Full Stack Game Developer"
   location : "Vietnam"
   links:

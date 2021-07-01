@@ -10,13 +10,13 @@ feature_row:
     btn_class: "btn--inverse"
   - image_path: /assets/images/tenio/tenio-0.png
     title: "TenIO Project"
-    excerpt: "Java, C++, JS, C#"
+    excerpt: "Open-source"
     url: "/tenio"
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: /assets/images/gold-miner-online/gold-miner-online-0.png
     title: "Gold Miner"
-    excerpt: "TenIO, Cocos2dx \\| Java, C++"
+    excerpt: "Solo Dev"
     url: "/gold-miner-online"
     btn_label: "Read More"
     btn_class: "btn--inverse"
@@ -28,13 +28,13 @@ feature_row:
     btn_class: "btn--inverse"
   - image_path: /assets/images/casual-mobile-games/casual-mobile-games-0.jpg
     title: "Casual Games"
-    excerpt: "Cocos2dx, LibGdx \\| C++, Java"
+    excerpt: "Solo Dev"
     url: "/casual-mobile-games"
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: /assets/images/retro-brick-game-online/retro-brick-game-online-0.png
     title: "Retro Brick"
-    excerpt: "TenIO, Cocos2dx \\| Java, C++"
+    excerpt: "Solo Dev"
     url: "/retro-brick-game-online"
     btn_label: "Read More"
     btn_class: "btn--inverse"

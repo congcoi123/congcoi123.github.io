@@ -4,40 +4,53 @@
 feature_row:
   - image_path: /assets/images/world-switch/world-switch-0.png
     title: "World Switch"
-    excerpt: "EC-Cube 2 \\| PHP"
+    excerpt: "Collaboration (On-going)"
     url: "/world-switch"
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: /assets/images/tenio/tenio-0.png
     title: "TenIO Project"
-    excerpt: "Open-source"
+    excerpt: "Open-source (On-going)"
     url: "/tenio"
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: /assets/images/gold-miner-online/gold-miner-online-0.png
     title: "Gold Miner"
-    excerpt: "Solo Dev"
+    excerpt: "Solo Dev (2017)"
     url: "/gold-miner-online"
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: /assets/images/archer-revenge/archer-revenge-0.jpg
     title: "Archer Revenge"
-    excerpt: "Cocos2dx \\| C++"
+    excerpt: "Collaboration (2014)"
     url: "/archer-revenge"
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: /assets/images/casual-mobile-games/casual-mobile-games-0.jpg
     title: "Casual Games"
-    excerpt: "Solo Dev"
+    excerpt: "Solo Dev (2015)"
     url: "/casual-mobile-games"
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: /assets/images/retro-brick-game-online/retro-brick-game-online-0.png
     title: "Retro Brick"
-    excerpt: "Solo Dev"
+    excerpt: "Solo Dev (2018)"
     url: "/retro-brick-game-online"
     btn_label: "Read More"
     btn_class: "btn--inverse"
+  - image_path: /assets/images/ranking-system/ranking-system-0.jpg
+    title: "Ranking System"
+    excerpt: "Solo Dev (2015)"
+    url: "/ranking-system"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+  - image_path: /assets/images/duck-hunter/duck-hunter-0.jpg
+    title: "Duck Hunter"
+    excerpt: "Collaboration (2013)"
+    url: "/duck-hunter"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+
 ---
 
 <h1> About Me </h1>

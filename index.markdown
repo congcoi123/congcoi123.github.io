@@ -32,7 +32,7 @@ feature_row:
     url: "/casual-mobile-games"
     btn_label: "Read More"
     btn_class: "btn--inverse"
-  - image_path: /assets/images/retro-brick-game-online/retro-brick-game-online-x.jpg
+  - image_path: /assets/images/retro-brick-game-online/retro-brick-game-online-0.jpg
     title: "Retro Brick"
     excerpt: "Solo Dev (2018)"
     url: "/retro-brick-game-online"
@@ -44,13 +44,18 @@ feature_row:
     url: "/ranking-system"
     btn_label: "Read More"
     btn_class: "btn--inverse"
+  - image_path: /assets/images/football-fighter/football-fighter-0.jpg
+    title: "Football Fighter"
+    excerpt: "Collaboration (2013)"
+    url: "/football-fighter"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"    
   - image_path: /assets/images/duck-hunter/duck-hunter-0.jpg
     title: "Duck Hunter"
     excerpt: "Collaboration (2013)"
     url: "/duck-hunter"
     btn_label: "Read More"
     btn_class: "btn--inverse"
-
 ---
 
 <h1> About Me </h1>

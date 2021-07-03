@@ -39,4 +39,4 @@ The hunting is fun and the controls to aim and fire your weapon are simple to ma
 - Investigated and fixed bugs
 
 <h2>Reference</h2>
-- None
+- Download: [Android APK](https://drive.google.com/file/d/1GN_Pv4rjYZPFzfNYuMEscVQmwzsDx7tY/view?usp=sharing)

@@ -32,7 +32,7 @@ feature_row:
     url: "/casual-mobile-games"
     btn_label: "Read More"
     btn_class: "btn--inverse"
-  - image_path: /assets/images/retro-brick-game-online/retro-brick-game-online-0.png
+  - image_path: /assets/images/retro-brick-game-online/retro-brick-game-online-x.jpg
     title: "Retro Brick"
     excerpt: "Solo Dev (2018)"
     url: "/retro-brick-game-online"

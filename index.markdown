@@ -14,7 +14,7 @@ feature_row:
     url: "/tenio"
     btn_label: "Read More"
     btn_class: "btn--inverse"
-  - image_path: /assets/images/gold-miner-online/gold-miner-online-0.png
+  - image_path: /assets/images/gold-miner-online/gold-miner-online-0.jpg
     title: "Gold Miner"
     excerpt: "Solo Dev (2017)"
     url: "/gold-miner-online"

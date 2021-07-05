@@ -2,6 +2,12 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 feature_row:
+  - image_path: /assets/images/management-system/management-system-0.jpg
+    title: "Sale Management"
+    excerpt: "Open-source (On-going)"
+    url: "/management-system"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
   - image_path: /assets/images/world-switch/world-switch-0.png
     title: "World Switch"
     excerpt: "Collaboration (On-going)"

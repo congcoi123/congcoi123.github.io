@@ -20,16 +20,16 @@ feature_row:
     url: "/tenio"
     btn_label: "Read More"
     btn_class: "btn--inverse"
+  - image_path: /assets/images/retro-brick-game-online/retro-brick-game-online-0.jpg
+    title: "Retro Brick"
+    excerpt: "Solo Dev (2018)"
+    url: "/retro-brick-game-online"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"    
   - image_path: /assets/images/gold-miner-online/gold-miner-online-0.jpg
     title: "Gold Miner"
     excerpt: "Solo Dev (2017)"
     url: "/gold-miner-online"
-    btn_label: "Read More"
-    btn_class: "btn--inverse"
-  - image_path: /assets/images/archer-revenge/archer-revenge-0.jpg
-    title: "Archer Revenge"
-    excerpt: "Collaboration (2014)"
-    url: "/archer-revenge"
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: /assets/images/casual-mobile-games/casual-mobile-games-0.jpg
@@ -38,16 +38,16 @@ feature_row:
     url: "/casual-mobile-games"
     btn_label: "Read More"
     btn_class: "btn--inverse"
-  - image_path: /assets/images/retro-brick-game-online/retro-brick-game-online-0.jpg
-    title: "Retro Brick"
-    excerpt: "Solo Dev (2018)"
-    url: "/retro-brick-game-online"
-    btn_label: "Read More"
-    btn_class: "btn--inverse"
   - image_path: /assets/images/ranking-system/ranking-system-0.jpg
     title: "Ranking System"
     excerpt: "Solo Dev (2015)"
     url: "/ranking-system"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"    
+  - image_path: /assets/images/archer-revenge/archer-revenge-0.jpg
+    title: "Archer Revenge"
+    excerpt: "Collaboration (2014)"
+    url: "/archer-revenge"
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: /assets/images/football-fighter/football-fighter-0.jpg

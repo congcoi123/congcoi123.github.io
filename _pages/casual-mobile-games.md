@@ -32,6 +32,7 @@ A list casual games for mobile created by the Cocos2dx engine and the LibGdx fra
 - Programming languages: Java, C++
 - Frameworks/Engines: Cocos2dx, LibGdx
 - Tools: Eclipse, Xcode, Android Studio, Trello, Source Tree, Git
+- Platforms: Android, iOS
 
 <h2>Responsibilities</h2>
 Solo dev, undertook all parts of the game development:

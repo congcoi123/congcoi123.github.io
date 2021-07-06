@@ -34,6 +34,7 @@ It includes a management tool for administrators or moderators and an embedded w
 - Programming languages: Java
 - Frameworks/Engines: Google Web Toolkit (GWT), Google App Engine (GAE)
 - Tools: Eclipse, Git
+- Platforms: Web
 
 <h2>Responsibilities</h2>
 - Built and designed the system from scratch

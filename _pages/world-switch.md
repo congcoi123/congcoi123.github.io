@@ -33,6 +33,7 @@ World Switch is a centralized sales solution for sellers who are using multiple 
 - Databases: MySQL
 - Services: AWS EC2, AWS S3, AWS RDS, AWS Lambda
 - Tools: Sublime Text 3, Docker, Sequel Pro, Trello, Source Tree, Git
+- Platforms: Web
 
 <h2>Responsibilities</h2>
 - Developed new modules to connect the existing system to other external services (using data scraping techniques or using 3rd party APIs)

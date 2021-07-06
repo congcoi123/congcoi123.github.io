@@ -37,6 +37,7 @@ You can use power-ups as you play so that you can unleash a devastating power sh
 - Programming languages: Java
 - Frameworks/Engines: LibGdx
 - Tools: Eclipse, SVN
+- Platforms: Android
 
 <h2>Responsibilities</h2>
 - Built the game from scratch

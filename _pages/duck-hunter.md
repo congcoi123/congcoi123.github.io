@@ -33,6 +33,7 @@ The hunting is fun and the controls to aim and fire your weapon are simple to ma
 - Programming languages: Java
 - Frameworks/Engines: LibGdx
 - Tools: Eclipse, SVN
+- Platforms: Android
 
 <h2>Responsibilities</h2>
 - Built the game from scratch

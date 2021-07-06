@@ -47,6 +47,7 @@ Create a personal account in the Gold Miner Online system and compete with other
 - Databases: MySQL, MongoDB, Redis
 - Services: AWS EC2, AWS RDS
 - Tools: Eclipse, Xcode, Android Studio, Trello, Source Tree, Git
+- Platforms: Android, iOS
 
 <h2>Responsibilities</h2>
 Solo dev, undertook all parts of the game development:

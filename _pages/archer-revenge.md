@@ -32,6 +32,7 @@ Using your bow and arrow to free Animals from their capture through 130 challeng
 - Programming languages: C++
 - Frameworks/Engines: Cocos2dx
 - Tools: Xcode, Android Studio, Trello, Source Tree, Git
+- Platforms: Android, iOS
 
 <h2>Responsibilities</h2>
 - Built the game from scratch

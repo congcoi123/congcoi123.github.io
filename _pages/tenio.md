@@ -16,11 +16,7 @@ gallery:
     image_path: /assets/images/tenio/tenio-6.png
 ---
 
-<div>
-  <iframe src="https://ghbtns.com/github-btn.html?user=congcoi123&repo=tenio&type=star&count=true" frameborder="0" scrolling="0" width="150" height="20" title="TenIO Star"></iframe>
-  <iframe src="https://ghbtns.com/github-btn.html?user=congcoi123&repo=tenio&type=watch&count=true&v=2" frameborder="0" scrolling="0" width="150" height="20" title="TenIO Watch"></iframe>
-  <iframe src="https://ghbtns.com/github-btn.html?user=congcoi123&repo=tenio&type=fork&count=true" frameborder="0" scrolling="0" width="150" height="20" title="TenIO Fork"></iframe>
-</div>
+<iframe src="https://ghbtns.com/github-btn.html?user=congcoi123&repo=tenio&type=star&count=true" frameborder="0" scrolling="0" width="150" height="20" title="Github"></iframe>
 
 <h2>Screenshots</h2>
 {% include gallery %}

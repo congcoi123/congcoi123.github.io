@@ -52,19 +52,19 @@ feature_row:
     btn_class: "btn--inverse"
   - image_path: /assets/images/football-fighter/football-fighter-0.jpg
     title: "Football Fighter"
-    excerpt: "Collaboration (2013)"
+    excerpt: "Solo Dev (2013)"
     url: "/football-fighter"
     btn_label: "Read More"
     btn_class: "btn--inverse"    
   - image_path: /assets/images/duck-hunter/duck-hunter-0.jpg
     title: "Duck Hunter"
-    excerpt: "Collaboration (2013)"
+    excerpt: "Solo Dev (2013)"
     url: "/duck-hunter"
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: /assets/images/fishing/fishing-0.jpg
     title: "Fishing"
-    excerpt: "Collaboration (2012)"
+    excerpt: "Solo Dev (2012)"
     url: "/fishing"
     btn_label: "Read More"
     btn_class: "btn--inverse"    

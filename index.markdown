@@ -62,6 +62,12 @@ feature_row:
     url: "/duck-hunter"
     btn_label: "Read More"
     btn_class: "btn--inverse"
+  - image_path: /assets/images/fishing/fishing-0.jpg
+    title: "Fishing"
+    excerpt: "Collaboration (2012)"
+    url: "/fishing"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"    
 ---
 
 <h1> About Me </h1>

@@ -82,8 +82,9 @@ For my working desire, I am passionate about Java and am willing to work with th
 
 <h1> Experience </h1>
 ---
-- Experienced in the development of 2D mobile games (cross-platform frameworks, engine)
 - Experienced in working with some eCommerce systems (eBay, Shopify, Wowma, Yahoo Japan, Futureshop, ...) via API or scraping techniques
+- Experienced with Spring framework: Spring Boot, Spring Cloud
+- Experienced in the development of 2D mobile games (cross-platform frameworks, engine)
 - Mainly working with Java but comfortable with other languages (C++, PHP, Javascript, C#)
 - Passion in developing frameworks, tools
 - Good software design skills, especially in object-oriented design

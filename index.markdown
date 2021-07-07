@@ -88,14 +88,14 @@ For my working desire, I am passionate about Java and am willing to work with th
 - Mainly working with Java but comfortable with other languages (C++, PHP, Javascript, C#)
 - Passion in developing frameworks, tools
 - Good software design skills, especially in object-oriented design
-- Ability to read and reuse other developers source code	
+- Ability to investigate and reuse other developers source code	
 - Strong communication and collaboration skills
 
 <h1> Specialties </h1>
 ---
 - Java, C++, PHP, Javascript, C#
-- Cocos2d-x, LibGdx, Unity, Phaser Js, EC-Cube 2, Phantomjs, Puppeteer
-- Eclipse, IntelliJ, Xcode, Docker, Visual Studio, Unity, Android Studio, Source Tree, Git
+- Spring Boot, Spring Cloud, EC-Cube 2, Phantomjs, Puppeteer, Cocos2d-x, LibGdx, Unity, Phaser JS
+- IntelliJ, Eclipse, Docker, Xcode, Visual Studio, Unity, Android Studio, Source Tree, Git
 
 <h1> My Works </h1>
 ---

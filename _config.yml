@@ -24,7 +24,7 @@ email: congcoi123@gmail.com
 name: "Cong Nguyen-Duy"
 time: 2021-07-01
 description: >- # this means to ignore newlines until "baseurl:"
-  I'm a passionate Java developer and this is my portfolio website.
+  I'm a passionate developer and this is my portfolio website.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://congcoi123.dev" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: congcoi123
@@ -35,7 +35,7 @@ breadcrumbs: true
 author:
   name     : "Cong Nguyen-Duy"
   avatar   : "/assets/images/profile/cong-nguyen-duy.jpeg"
-  bio      : "Java Developer \\| Full Stack Game Developer"
+  bio      : "Game Developer \\| Java Developer"
   location : "Vietnam"
   links:
     - label: "Email"

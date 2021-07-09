@@ -78,14 +78,13 @@ I give efforts every day to learn about new technical knowledge and enhance my f
 
 Besides, scheduling detailed plans for every short-term achievement and always keeping persistent is my personal mission statement. Accordingly, to bear in mind to follow this way helps me self-research quickly and shape my problem-solving capability intensively.
 
-For my working desire, I am passionate about Java and am willing to work with this awesome technology, but I'm eager to seek other techniques or solutions which could make better products for the customer.
+I'm eager to seek multiple techniques or solutions that could make better products for the customer for my working desire.
 
 <h1> Experience </h1>
 ---
+- Experienced in the development of 2D mobile games on both Server and Client sides (cross-platform frameworks, engine)
 - Experienced in working with some eCommerce systems (eBay, Shopify, Wowma, Yahoo Japan, Futureshop, ...) via API or scraping techniques
 - Experienced with Spring framework: Spring Boot, Spring Cloud
-- Experienced in the development of 2D mobile games (cross-platform frameworks, engine)
-- Mainly working with Java but comfortable with other languages (C++, PHP, Javascript, C#)
 - Passion in developing frameworks, tools
 - Good software design skills, especially in object-oriented design
 - Ability to investigate and reuse other developers source code	
@@ -94,8 +93,8 @@ For my working desire, I am passionate about Java and am willing to work with th
 <h1> Specialties </h1>
 ---
 - Java, C++, PHP, Javascript, C#
-- Spring Boot, Spring Cloud, EC-Cube 2, Phantomjs, Puppeteer, Cocos2d-x, LibGdx, Unity, Phaser JS
-- IntelliJ, Eclipse, Docker, Xcode, Visual Studio, Unity, Android Studio, Source Tree, Git
+- Cocos2d-x, LibGdx, Unity, Phaser JS, Spring Boot, Spring Cloud, EC-Cube 2, Phantomjs, Puppeteer
+- Xcode, Visual Studio, Unity, Android Studio, IntelliJ, Eclipse, Docker, Source Tree, Git
 
 <h1> My Works </h1>
 ---

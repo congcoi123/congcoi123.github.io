@@ -10,7 +10,7 @@ feature_row:
     btn_class: "btn--inverse"
   - image_path: /assets/images/world-switch/world-switch-0.png
     title: "World Switch"
-    excerpt: "Collaboration (On-going)"
+    excerpt: "Contribution (On-going)"
     url: "/world-switch"
     btn_label: "Read More"
     btn_class: "btn--inverse"

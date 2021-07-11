@@ -10,6 +10,9 @@ gallery:
     image_path: /assets/images/fishing/fishing-3.png
 ---
 
+<h2>Trailer</h2>
+{% include video id="Eb69rLsECxU" provider="youtube" %}
+
 <h2>Screenshots</h2>
 {% include gallery %}
 
@@ -31,4 +34,4 @@ Have you ever been fishing yet? Come to this fishing game on Android in the spec
 - Reached more than 200,000 downloads after the first month
 
 <h2>Reference</h2>
-- None
+- Download: [Android APK](https://drive.google.com/drive/folders/1PFDV7QYgUfcWyq9JAcQTB0PS0BpycpcI?usp=sharing)

@@ -35,8 +35,8 @@ breadcrumbs: true
 author:
   name     : "Cong Nguyen-Duy"
   avatar   : "/assets/images/profile/avatar-cong-nguyen-duy.jpg"
-  bio      : "Game Developer \\| Java Developer"
-  location : "Japan"
+  bio      : "Java Developer"
+  location : "Vietnam"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"

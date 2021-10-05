@@ -94,8 +94,8 @@ I give efforts every day to learn about new technical knowledge and enhance my f
 
 <h1> Specialties </h1>
 ---
-- Java, C++, PHP, Javascript, C#
-- Spring Boot, Spring Cloud, EC-Cube 2, Phantomjs, Puppeteer, Cocos2d-x, LibGdx, Unity, Phaser JS
+- Java, Kotlin, C++, PHP, Javascript, C#
+- Spring Boot, Spring Cloud, gRPC, Reactive Programming, EC-Cube 2, Phantomjs, Puppeteer, Cocos2d-x, LibGdx, Unity, Phaser JS
 - IntelliJ, Eclipse, Docker, Xcode, Visual Studio, Unity, Android Studio, Source Tree, Git
 
 <h1> My Works </h1>

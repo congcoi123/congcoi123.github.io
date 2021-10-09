@@ -51,6 +51,6 @@ The project is currently available under the [MIT](https://github.com/congcoi123
 - Investigates and fixes bugs
 
 <h2>Reference</h2>
-- The main project: [Github Repository](https://github.com/congcoi123/tenio)
+- The main project: [TenIO Project](https://github.com/congcoi123/tenio)
 - Simple client projects: [Cocos2dx](https://github.com/congcoi123/tenio-cocos2dx), [Libgdx](https://github.com/congcoi123/tenio-libgdx), [Unity](https://github.com/congcoi123/tenio-unity), [PhaserJS](https://github.com/congcoi123/tenio-phaserjs)
-- Free open-source game projects: [Github Repository](https://github.com/tengames)
+- Free open-source game projects: [Ten Games](https://github.com/tengames)

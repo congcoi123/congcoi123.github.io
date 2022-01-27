@@ -21,7 +21,7 @@
 github: [metadata]
 title: Portfolio
 email: congcoi123@gmail.com
-name: "Cong Nguyen-Duy"
+name: "Nguyễn Duy Công (Kong)"
 time: 2021-09-01
 description: >- # this means to ignore newlines until "baseurl:"
   I'm a passionate developer and this is my portfolio website.
@@ -30,10 +30,10 @@ url: "https://congcoi123.dev" # the base hostname & protocol for your site, e.g.
 twitter_username: congcoi123
 github_username: congcoi123
 repository: "congcoi123/congcoi123.github.io"
-site.author: Cong Nguyen-Duy
+site.author: Nguyễn Duy Công (Kong)
 breadcrumbs: true
 author:
-  name     : "Cong Nguyen-Duy"
+  name     : "Nguyễn Duy Công (Kong)"
   avatar   : "/assets/images/profile/avatar-cong-nguyen-duy.jpg"
   bio      : "Java Developer \\| Back End Developer"
   location : "Germany"

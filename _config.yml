@@ -71,6 +71,9 @@ footer:
     - label: "Hire Me!"
       icon: "fas fa-fw fa-file-signature"
       url: "https://www.upwork.com/freelancers/~0165c273db7b9c881f"
+    - label: "JFF"
+      icon: "fas fa-fw fa-gifts"
+      url: "/assets/happynewyear/index.html"
 
 include: ["_pages"]
 defaults:

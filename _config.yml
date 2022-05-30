@@ -72,7 +72,7 @@ footer:
       icon: "fas fa-fw fa-file-signature"
       url: "https://www.upwork.com/freelancers/~0165c273db7b9c881f"
     - label: "Gallery"
-      icon: "fas fa-fw fa-deviantart"
+      icon: "fas fa-fw fa-star"
       url: "https://www.deviantart.com/congcoi123"
     - label: "JFF"
       icon: "fas fa-fw fa-gifts"

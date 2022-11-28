@@ -98,7 +98,7 @@ I give efforts every day to learn about new technical knowledge and enhance my f
 - Spring Boot, Spring Cloud, gRPC, Reactive Programming, EC-Cube 2, Phantomjs, Puppeteer, Cocos2d-x, LibGdx, Unity, Phaser JS
 - IntelliJ, Eclipse, Docker, Xcode, Visual Studio, Unity, Android Studio, Source Tree, Git
 
-<h1> My Works </h1>
+<h1> My Public Works </h1>
 ---
 {% include feature_row %}
 

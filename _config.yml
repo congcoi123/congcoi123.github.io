@@ -22,7 +22,7 @@ github: [metadata]
 title: Portfolio
 email: congcoi123@gmail.com
 name: "Nguyễn Duy Công (Kong)"
-time: 2021-09-01
+time: 2022-12-24
 description: >- # this means to ignore newlines until "baseurl:"
   I'm a passionate developer and this is my portfolio website.
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -35,7 +35,7 @@ breadcrumbs: true
 author:
   name     : "Nguyễn Duy Công (Kong)"
   avatar   : "/assets/images/profile/avatar-cong-nguyen-duy.jpg"
-  bio      : "Java Developer \\| Back End Developer"
+  bio      : "Java Developer \\| Game Developer"
   location : "Germany"
   links:
     - label: "Email"

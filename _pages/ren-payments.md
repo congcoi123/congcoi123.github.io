@@ -30,7 +30,7 @@ Ren is a modern, real-time, end-to-end payments solution that enables Banks, Fin
 
 <h2>Responsibilities</h2>
 - Developed new modules, services
-- Contributed to the product improvement
+- Contributed to product improvement
 - Investigated and fixed bugs for the current system
 
 <h2>Reference</h2>

@@ -2,6 +2,8 @@
 title: Ren Payments
 permalink: /ren-payments
 gallery:
+  - url: /assets/images/ren-payments/ren-payments-0.jpg
+    image_path: /assets/images/ren-payments/ren-payments-0.jpg  
   - url: /assets/images/ren-payments/ren-payments-1.jpg
     image_path: /assets/images/ren-payments/ren-payments-1.jpg
   - url: /assets/images/ren-payments/ren-payments-2.jpg

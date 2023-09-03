@@ -90,6 +90,7 @@ I give efforts every day to learn about new technical knowledge and enhance my f
 
 <h1> Experience </h1>
 ---
+- Experienced in working with transaction data and Mastercard documentation
 - Experienced in working with some eCommerce systems (eBay, Shopify, Wowma, Yahoo Japan, Futureshop, ...) via API or scraping techniques
 - Experienced with Spring framework: Spring Boot, Spring Cloud
 - Experienced in building online game systems

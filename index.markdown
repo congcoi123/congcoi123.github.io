@@ -116,6 +116,7 @@ I’m truly excited about the opportunity to contribute to your project. Let’s
 {% include feature_row %}
 
 I speak English (upper intermediate), Japanese (intermediate), German (intermediate), and Vietnamese (native).
+
 Feel free to contact me if you have any questions/remarks!
 
 Best Regards,

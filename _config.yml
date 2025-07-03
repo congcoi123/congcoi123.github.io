@@ -22,9 +22,9 @@ github: [metadata]
 title: Portfolio
 email: congcoi123@gmail.com
 name: "Nguyễn Duy Công (Kong)"
-time: 2023-09-02
+time: 2025-07-03
 description: >- # this means to ignore newlines until "baseurl:"
-  I'm a passionate developer and this is my portfolio website.
+  I'm a passionate software engineer and this is my portfolio website.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://congcoi123.dev" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: congcoi123
@@ -35,7 +35,7 @@ breadcrumbs: true
 author:
   name     : "Nguyễn Duy Công (Kong)"
   avatar   : "/assets/images/profile/avatar-cong-nguyen-duy.jpg"
-  bio      : "Java Developer"
+  bio      : "Software Engineer"
   location : "Germany"
   links:
     - label: "Email"
@@ -47,9 +47,12 @@ author:
     - label: "Coding"
       icon: "fas fa-fw fa-code"
       url: "https://app.codesignal.com/profile/congcoi123"
-    - label: "Store"
-      icon: "fas fa-fw fa-gamepad"
+    - label: "Play Store"
+      icon: "fas fa-fw fa-play"
       url: "https://play.google.com/store/apps/dev?id=8106421791552658873"
+    - label: "App Store"
+      icon: "fas fa-fw fa-apple"
+      url: "https://apps.apple.com/us/developer/cong-nguyen/id1678949623"
     - label: "Hire Me!"
       icon: "fas fa-fw fa-file-signature"
       url: "https://www.upwork.com/freelancers/~0165c273db7b9c881f"
@@ -66,8 +69,11 @@ footer:
       icon: "fas fa-fw fa-code"
       url: "https://app.codesignal.com/profile/congcoi123"
     - label: "Play Store"
-      icon: "fas fa-fw fa-gamepad"
-      url: "https://play.google.com/store/apps/dev?id=8106421791552658873"      
+      icon: "fas fa-fw fa-play"
+      url: "https://play.google.com/store/apps/dev?id=8106421791552658873"
+    - label: "App Store"
+      icon: "fas fa-fw fa-apple"
+      url: "https://apps.apple.com/us/developer/cong-nguyen/id1678949623"
     - label: "Hire Me!"
       icon: "fas fa-fw fa-file-signature"
       url: "https://www.upwork.com/freelancers/~0165c273db7b9c881f"

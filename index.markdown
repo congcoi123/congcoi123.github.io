@@ -82,34 +82,34 @@ feature_row:
 {% assign currentYear = 'now' | date: "%Y" | plus:0 %}
 {% assign passedYears = currentYear | minus: 2013 %}
 
-A few years ago, when I was an undergrad student at university, I began to gradually substantiate the importance of smartphones. Although they were still very quaint in Vietnam, especially the gaming apps, I readily and inadvertently became passionate about them. Fortunately, during my sophomore year, I acquired an internship as a game developer in a small company working in the mobile games business. I was immensely excited and motivated to fulfill my passions, and I could soon independently develop small games. However, I soon lost appetite due to the small scope of the company and the fact that I could only develop isolated and single-player games. Subsequently, I started to dream about my own online gaming system to develop more advanced, multi-player, interactive, and complex games. During those moments, I figured out the direction of my professional career and had a strong desire to pursue it.
+Hi! I'm Cong (Kong), a Software Engineer with a strong focus on building robust systems and intuitive applications. Over the years, I’ve specialized in game and system development using Java and related frameworks, while also working on frontend features for various side projects.
 
-Today, I have more than {{ passedYears }} years of IT industry experience in various companies and professional capacities, created more than 30 games, applications on mobile phones, contributed to several open-source projects, played in multiple roles such as game developer, back-end developer, full-stack developer. In addition, I tried to set up my own game studio with other colleagues, but it could not yield the desired results. Throughout these years, my idea to create my own online game system remained alive, and I realized that I could develop more by thinking about other business systems, not only the game systems. That is why I focus on system design and the relevant technologies.
+My experience spans across domains like Gaming, eCommerce, Education, and Fintech, always with a user-centered mindset. What drives me most is creating reliable, full-stack solutions — from backend architecture to frontend design and DevOps — to deliver complete, production-ready products.
 
-I give efforts every day to learn about new technical knowledge and enhance my foreign language abilities as well. Besides, scheduling detailed plans for every short-term achievement and always keeping persistent is my personal mission statement. Accordingly, to bear in mind to follow this way helps me self-research quickly and shape my problem-solving capability intensively. I’m eager to seek multiple techniques or solutions that could make better products for the customer for my working desire.
+I’m truly excited about the opportunity to contribute to your project. Let’s build something great together!
 
 <h1> Experience </h1>
 ---
-- Experienced in working with transaction data and Mastercard documentation
-- Experienced in working with some eCommerce systems (eBay, Shopify, Wowma, Yahoo Japan, Futureshop, ...) via API or scraping techniques
-- Experienced with Spring framework: Spring Boot, Spring Cloud
-- Experienced in building online game systems
-- Passion in developing frameworks, tools
-- Good software design skills, especially in object-oriented design
-- Ability to investigate and reuse other developers source code	
-- Strong communication and collaboration skills
+- Solid experience working with transaction data and Mastercard documentation, ensuring compliance and integration accuracy
+- Developed integrations with various eCommerce platforms such as eBay, Shopify, Wowma, Yahoo Japan, and Futureshop, using APIs and web scraping when necessary
+- Proficient with the Spring ecosystem, including Spring Boot and Spring Cloud, for building scalable, maintainable backend systems
+- Hands-on experience in designing and developing online multiplayer game systems with a focus on performance and reliability
+- Passionate about building internal frameworks and developer tools that improve productivity and code quality
+- Strong background in software architecture and object-oriented design, with a focus on clean, extensible code
+- Skilled at analyzing, understanding, and reusing existing codebases, even in large or legacy systems
+- Excellent communication and collaboration skills — experienced in working closely with cross-functional teams to deliver successful products
 
 <h1> Specialties </h1>
 ---
-- Java, Kotlin, C++, PHP, Javascript, C#
-- Spring Boot, Spring Cloud, gRPC, Reactive Programming, EC-Cube 2, Phantomjs, Puppeteer, Cocos2d-x, LibGdx, Unity, Phaser JS
-- IntelliJ, Eclipse, Docker, Xcode, Visual Studio, Unity, Android Studio, Source Tree, Git
+- Java, Typescript, Javascript, C++
+- Spring Boot, Spring Cloud, LibGdx, Cocos2d-x, Phaser JS, Threejs
+- IntelliJ, Docker, Xcode, Visual Studio, Android Studio, Source Tree, Git
 
 <h1> My Public Works </h1>
 ---
 {% include feature_row %}
 
-Feel free to contact me if you have any questions/remarks!
+I speak English (upper intermediate), Japanese (intermediate), German (intermediate), Vietnamese (native). Feel free to contact me if you have any questions/remarks!
 
 Best Regards,
 

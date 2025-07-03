@@ -72,5 +72,5 @@ Solo dev, undertook all parts of the game development:
 - Server deployment
 
 <h2>Reference</h2>
-- Play Store: https://play.google.com/store/apps/details?id=dual.player.multiplayer.online.game.box
-- App Store: https://apps.apple.com/us/app/two-players-game-box/id6446767787
+- Play Store: [Game Box Android](https://play.google.com/store/apps/details?id=dual.player.multiplayer.online.game.box)
+- App Store: [Game Box iOS](https://apps.apple.com/us/app/two-players-game-box/id6446767787)

@@ -2,6 +2,12 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 feature_row:
+  - image_path: /assets/images/game-box-online/game-box-online-0.jpg
+    title: "Game Box Online"
+    excerpt: "Solo Dev (2023)"
+    url: "/game-box-online"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"  
   - image_path: /assets/images/ren-payments/ren-payments-0.jpg
     title: "Ren Payments"
     excerpt: "Contribution (On-going)"
@@ -109,7 +115,8 @@ I’m truly excited about the opportunity to contribute to your project. Let’s
 ---
 {% include feature_row %}
 
-I speak English (upper intermediate), Japanese (intermediate), German (intermediate), Vietnamese (native). Feel free to contact me if you have any questions/remarks!
+I speak English (upper intermediate), Japanese (intermediate), German (intermediate), and Vietnamese (native).
+Feel free to contact me if you have any questions/remarks!
 
 Best Regards,
 

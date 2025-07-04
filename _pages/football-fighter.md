@@ -40,8 +40,8 @@ You can use power-ups as you play so that you can unleash a devastating power sh
 - Platforms: Android
 
 <h2>Responsibilities</h2>
-- Built the game from scratch
-- Investigated and fixed bugs
+- Built the game from scratch, including core systems, gameplay mechanics, and user interface  
+- Identified, investigated, and fixed bugs to enhance game stability and performance
 
 <h2>Reference</h2>
 - Download: [Android APK](https://drive.google.com/file/d/1tDxqeeKoIMqzCSGlJ02JxO2jKvFKzxfw/view?usp=sharing)

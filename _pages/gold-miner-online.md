@@ -50,12 +50,12 @@ Create a personal account in the Gold Miner Online system and compete with other
 - Platforms: Android, iOS
 
 <h2>Responsibilities</h2>
-Solo dev, undertook all parts of the game development:
-- Game concept design
-- Back-end development
-- Mobile application development
-- Database design
-- Server deployment
+Solo developer responsible for the entire game development lifecycle:  
+- Designed the game concept, mechanics, and overall player experience  
+- Developed the backend infrastructure, including APIs and game logic  
+- Built the mobile application with responsive UI and seamless gameplay  
+- Designed and implemented the database schema for game data management  
+- Deployed and maintained the game server to ensure uptime and scalability
 
 <h2>Reference</h2>
 - Download: [Android Offline Version](https://drive.google.com/file/d/1CllVBd-qHFrd8b9S58oyzF2f4e4dGuaJ/view?usp=sharing)

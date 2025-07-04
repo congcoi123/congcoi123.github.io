@@ -64,12 +64,12 @@ Game Box also contains fast and short 2-player 1v1 games. They are really addict
 - Platforms: Android, iOS
 
 <h2>Responsibilities</h2>
-Solo dev, undertook all parts of the game development:
-- Game concept design
-- Back-end development
-- Mobile application development
-- Database design
-- Server deployment
+Solo developer responsible for the entire game development lifecycle:  
+- Designed the game concept, mechanics, and overall player experience  
+- Developed the backend infrastructure, including APIs and game logic  
+- Built the mobile application with responsive UI and seamless gameplay  
+- Designed and implemented the database schema for game data management  
+- Deployed and maintained the game server to ensure uptime and scalability
 
 <h2>Reference</h2>
 - Play Store: [Game Box Android](https://play.google.com/store/apps/details?id=dual.player.multiplayer.online.game.box)

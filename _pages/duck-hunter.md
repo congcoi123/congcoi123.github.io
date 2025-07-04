@@ -36,8 +36,8 @@ The hunting is fun and the controls to aim and fire your weapon are simple to ma
 - Platforms: Android
 
 <h2>Responsibilities</h2>
-- Built the game from scratch
-- Investigated and fixed bugs
+- Developed the game from scratch, including architecture, gameplay systems, and UI components  
+- Diagnosed and resolved bugs across various parts of the codebase to ensure a smooth and stable gaming experience
 
 <h2>Reference</h2>
 - Download: [Android APK](https://drive.google.com/file/d/1GN_Pv4rjYZPFzfNYuMEscVQmwzsDx7tY/view?usp=sharing)

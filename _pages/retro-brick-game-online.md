@@ -41,12 +41,12 @@ The game mechanics, controls, and sound effects were accurately recreated. The o
 - Platforms: Android, iOS
 
 <h2>Responsibilities</h2>
-Solo dev, undertook all parts of the game development:
-- Game concept design
-- Back-end development
-- Mobile application development
-- Database design
-- Server deployment
+Solo developer responsible for the full game development lifecycle:  
+- Designed the core game concept, mechanics, and user experience  
+- Implemented backend services to support game logic and real-time interactions  
+- Developed the mobile application, including UI, gameplay, and platform integration  
+- Designed and managed the database schema for efficient data storage and retrieval  
+- Deployed and maintained the server infrastructure to ensure stability and scalability
 
 <h2>Reference</h2>
 - Download: [Android Offline Version](https://drive.google.com/file/d/13PGrA6duqucPwX4oSpD3dmQ7Y30RZoyE/view?usp=sharing)

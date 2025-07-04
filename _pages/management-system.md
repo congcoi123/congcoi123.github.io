@@ -50,9 +50,9 @@ The project is currently available under the [MIT](https://github.com/congcoi123
 - Tools: Eclipse, IntelliJ, Source Tree, Git
 
 <h2>Responsibilities</h2>
-- Designs and develops new features
-- Reviews and merges pull requests
-- Investigates and fixes bugs
+- Design and implement new features to improve product functionality and user experience  
+- Review and merge pull requests to ensure code quality, consistency, and maintainability  
+- Troubleshoot, investigate, and resolve bugs to maintain system stability and performance
 
 <h2>Reference</h2>
 - The main project: [Github Repository](https://github.com/congcoi123/product-order-services)

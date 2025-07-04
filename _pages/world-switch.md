@@ -36,9 +36,9 @@ World Switch is a centralized sales solution for sellers who are using multiple 
 - Platforms: Web
 
 <h2>Responsibilities</h2>
-- Developed new modules to connect the existing system to other external services (using data scraping techniques or using 3rd party APIs)
-- Deployed and configured environments for development and testing based on Docker, PHP, Nginx, MySQL
-- Investigated and fixed bugs for the current system
+- Developed new modules to integrate the existing system with external services via data scraping and third-party APIs  
+- Deployed and configured development and testing environments using Docker, PHP, Nginx, and MySQL  
+- Investigated and resolved bugs in the current system to maintain stability and performance
 
 <h2>Reference</h2>
 - Homepage: [https://wasab.net/world-switch](https://wasab.net/world-switch)

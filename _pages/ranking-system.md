@@ -37,8 +37,8 @@ It includes a management tool for administrators or moderators and an embedded w
 - Platforms: Web
 
 <h2>Responsibilities</h2>
-- Built and designed the system from scratch
-- Investigated and fixed bugs
+- Designed and built the entire system from the ground up, including architecture, core components, and workflows  
+- Diagnosed, investigated, and resolved bugs to ensure system reliability and optimal performance
 
 <h2>Reference</h2>
 - None

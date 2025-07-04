@@ -35,9 +35,9 @@ Using your bow and arrow to free Animals from their capture through 130 challeng
 - Platforms: Android, iOS
 
 <h2>Responsibilities</h2>
-- Built the game from scratch
-- Designed a stage builder tool for the game designer to help create game levels more easily
-- Investigated and fixed bugs
+- Developed the game from the ground up, including core architecture, gameplay mechanics, and deployment pipeline  
+- Designed and implemented a custom stage builder tool, enabling game designers to create and manage levels efficiently without developer support  
+- Proactively investigated and resolved bugs across the system, improving stability and overall player experience
 
 <h2>Reference</h2>
 - Download: [Android APK](https://drive.google.com/file/d/0By4h4TEfA8xERlZoNTRiSUo2U0k/view?usp=sharing)

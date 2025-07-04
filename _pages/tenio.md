@@ -47,9 +47,9 @@ The project is currently available under the [MIT](https://github.com/congcoi123
 - Tools: Eclipse, IntelliJ, Xcode, Visual Studio Code, Docker, Sequel Pro, Trello, Source Tree, Git
 
 <h2>Responsibilities</h2>
-- Designs and develops new features
-- Reviews and merges pull requests
-- Investigates and fixes bugs
+- Design and develop new features to enhance application functionality and user experience  
+- Review and merge pull requests to maintain code quality and consistency  
+- Investigate, diagnose, and fix bugs to ensure system stability and performance
 
 <h2>Reference</h2>
 - The main project: [TenIO Project](https://github.com/congcoi123/tenio)

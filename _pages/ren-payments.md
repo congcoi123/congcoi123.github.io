@@ -31,9 +31,9 @@ Ren is a modern, real-time, end-to-end payments solution that enables Banks, Fin
 - Platforms: Web
 
 <h2>Responsibilities</h2>
-- Developed new modules, services
-- Contributed to product improvement
-- Investigated and fixed bugs for the current system
+- Developed new modules and backend services to extend system functionality  
+- Contributed to product improvements through feature enhancements and performance tuning  
+- Investigated and resolved bugs in the existing system to ensure stability and maintainability
 
 <h2>Reference</h2>
 - Homepage: [https://www.renpayments.com](https://www.renpayments.com)

@@ -26,12 +26,12 @@ Have you ever been fishing yet? Come to this fishing game on Android in the spec
 - Platforms: Android
 
 <h2>Responsibilities</h2>
-- Built the game from scratch
-- Investigated and fixed bugs
+- Developed the game from the ground up, including architecture, gameplay features, and user interface  
+- Investigated and resolved bugs to improve performance and ensure a smooth user experience
 
 <h2>Achievements</h2>
-- My first android game published on the Google Play store
-- Reached more than 200,000 downloads after the first month
+- Successfully launched my first Android game on the Google Play Store  
+- Achieved over 200,000 downloads within the first month of release
 
 <h2>Reference</h2>
 - Download: [Android APK](https://drive.google.com/drive/folders/1PFDV7QYgUfcWyq9JAcQTB0PS0BpycpcI?usp=sharing)

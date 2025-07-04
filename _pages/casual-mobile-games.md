@@ -35,9 +35,9 @@ A list casual games for mobile created by the Cocos2dx engine and the LibGdx fra
 - Platforms: Android, iOS
 
 <h2>Responsibilities</h2>
-Solo dev, undertook all parts of the game development:
-- Game concept design
-- Mobile application development
+Solo developer responsible for end-to-end game development:  
+- Designed the game concept, mechanics, and overall user experience  
+- Developed the mobile application, including UI/UX, game logic, and platform integration
 
 <h2>Reference</h2>
 - Youtube Playlist: [Playlist](https://www.youtube.com/watch?v=mBZMC6LH0fo&list=PL8PtsXBOJb8hsTWn-CfGjY-b1FmNEQJYW)
